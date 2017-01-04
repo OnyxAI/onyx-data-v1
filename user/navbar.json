@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "fa": "fa-window-maximize",
+    "url": "core.app",
+    "pourcentage": "93%",
+    "tooltip": "App"
+  },
+  {
+    "id": "2",
+    "fa": "fa-wrench",
+    "url": "core.utilities",
+    "pourcentage": "88%",
+    "tooltip": "Utilities"
+  },
+  {
+    "id": "3",
+    "fa": "fa-plus",
+    "url": "core.plugins",
+    "pourcentage": "83%",
+    "tooltip": "Plugins"
+  },
+  {
+    "id": "4",
+    "fa": "fa-calendar-o",
+    "url": "core.calendars",
+    "pourcentage": "72%",
+    "tooltip": "Calendar"
+  },
+  {
+    "id": "5",
+    "fa": "fa-tint",
+    "url": "core.weather",
+    "pourcentage": "67%",
+    "tooltip": "Weather"
+  },
+  {
+    "id": "6",
+    "fa": "fa-tasks",
+    "url": "core.tasks",
+    "pourcentage": "62%",
+    "tooltip": "Tasks"
+  },
+  {
+    "id": "7",
+    "fa": "fa-map-o",
+    "url": "core.map",
+    "pourcentage": "34%",
+    "tooltip": "Map"
+  },
+  {
+    "id": "8",
+    "fa": "fa-info",
+    "url": "core.info",
+    "pourcentage": "29%",
+    "tooltip": "News"
+  },
+  {
+    "id": "9",
+    "fa": "fa-question-circle",
+    "url": "core.help",
+    "pourcentage": "24%",
+    "tooltip": "Help"
+  },
+  {
+    "id": "10",
+    "fa": "fa-cogs",
+    "url": "core.options",
+    "pourcentage": "13%",
+    "tooltip": "Options"
+  },
+  {
+    "id": "11",
+    "fa": "fa-user",
+    "url": "auth.change_account",
+    "pourcentage": "8%",
+    "tooltip": "My Account"
+  }
+]
