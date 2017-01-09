@@ -37,9 +37,9 @@
   {
     "id": "6",
     "fa": "fa-tasks",
-    "url": "core.tasks",
+    "url": "core.scenario",
     "pourcentage": "62%",
-    "tooltip": "Tasks"
+    "tooltip": "Scenario"
   },
   {
     "id": "7",

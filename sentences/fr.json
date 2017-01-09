@@ -1,6 +1,5 @@
 [
   {
-    "id": "1",
     "text": "Quel heure est il ?",
     "type": "notification",
     "label": "get_time",
@@ -8,40 +7,7 @@
     "langage": "fr"
   },
   {
-    "id": "2",
     "text": "Quel temps fait il ?",
-    "type": "notification",
-    "label": "get_weather",
-    "api": "weather",
-    "langage": "fr"
-  },
-  {
-    "id": "3",
-    "text": "Met a jour Onyx",
-    "type": "exec",
-    "label": "maj_pip",
-    "api": "server",
-    "langage": "fr"
-  },
-  {
-    "id": "4",
-    "text": "Donne mes coordonnees",
-    "type": "notification",
-    "label": "get_string",
-    "api": "geolocalisation",
-    "langage": "fr"
-  },
-  {
-    "id": "5",
-    "text": "quelle heure est-il",
-    "type": "notification",
-    "label": "get_time",
-    "api": "time",
-    "langage": "fr"
-  },
-  {
-    "id": "6",
-    "text": "quel temps fait-il",
     "type": "notification",
     "label": "get_weather",
     "api": "weather",
