@@ -43,10 +43,10 @@
   },
   {
     "id": "7",
-    "fa": "fa-map-o",
-    "url": "core.map",
+    "fa": "fa-id-card-o",
+    "url": "core.widgets",
     "pourcentage": "34%",
-    "tooltip": "Map"
+    "tooltip": "Widgets"
   },
   {
     "id": "8",

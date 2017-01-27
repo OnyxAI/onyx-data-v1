@@ -1,0 +1,23 @@
+[
+  {
+    "code":"calendar",
+    "name":"Calendrier",
+    "description":"Calendrier miniature",
+    "url":"widgets.calendar",
+    "see_more":"core.calendars"
+  },
+  {
+    "code":"weather",
+    "name":"Météo",
+    "description":"Météo 1",
+    "url":"widgets.weather_1",
+    "see_more":"core.weather"
+  },
+  {
+    "code":"weather",
+    "name":"Météo",
+    "description":"Météo 2",
+    "url":"widgets.weather_2",
+    "see_more":"core.weather"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "code":"notification",
+    "name":"Notification",
+    "description":"Envoyer une notification",
+    "url":"action.notification",
+    "params":[
+      {
+        "type": "input",
+				"name": "Title",
+				"variable": "title"
+			},
+			{
+        "type": "input",
+				"name": "Text",
+				"variable": "text"
+			},
+			{
+        "type": "input",
+				"name": "Priority",
+				"variable": "priority"
+			},
+			{
+        "type": "input",
+				"name": "Icon",
+				"variable": "icon"
+			},
+			{
+        "type": "input",
+				"name": "Icon Color",
+				"variable": "icon_color"
+			},
+			{
+        "type": "select",
+				"name": "User",
+				"variable": "username",
+				"url" : "api.get_users"
+			}
+
+    ]
+  },
+  {
+    "code":"new_event",
+    "name":"Event",
+    "description":"Créer un nouvel évenement",
+    "url":"action.event",
+    "params":[
+      {
+        "type": "input",
+				"name": "Code",
+				"variable": "code"
+			}
+    ]
+  }
+]

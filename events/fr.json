@@ -29,5 +29,82 @@
         "type":"select"
       }
     ]
+  },
+  {
+    "code":"user_connected",
+    "name":"Connexion d'Utilisateur",
+    "description":"Quand un utilisateur se connecte",
+    "fa":"fa fa-home",
+    "color":"light-blue",
+    "params":[
+      {
+        "name":"Utilisateur",
+        "value":"user",
+        "variable":"username",
+        "url":"api.get_users",
+        "type":"select"
+      }
+    ]
+  },
+  {
+    "code": "wake_up",
+    "name": "Réveil",
+    "description": "Vous venez de vous réveiller !",
+    "fa": "fa-bed",
+    "icon_color": "yellow",
+    "params":[]
+  },
+  {
+    "code": "going_to_sleep",
+    "name": "Aller se coucher",
+    "description": "Un utilisateur va se coucher",
+    "fa": "fa-bed",
+    "icon_color": "blue"
+  },
+  {
+    "code": "onyx_installed",
+    "name": "Onyx installé",
+    "description": "Onyx vient d'être installé !",
+    "fa": "fa-desktop",
+    "icon_color": "black"
+  },
+  {
+    "code": "onyx_updated",
+    "name": "Onyx mise à jour",
+    "description": "Onyx s'est mise à jour",
+    "fa": "fa-wrench",
+    "icon_color": "black"
+  },
+  {
+    "code": "sun_rise",
+    "name": "Lever du soleil",
+    "description": "Quand le soleil se lève",
+    "fa": "fa-sun-o",
+    "icon_color": "yellow",
+    "params": [
+      {
+         "name": "Maison",
+         "value": "house",
+         "variable": "name",
+         "url": "api.get_house",
+         "type": "select"
+      }
+    ]
+  },
+  {
+    "code": "sun_set",
+    "name": "Coucher du soleil",
+    "description": "Quand le soleil se couche",
+    "fa": "fa-sun-o",
+    "icon_color": "yellow",
+    "params": [
+      {
+         "name": "Maison",
+         "value": "house",
+         "variable": "name",
+         "url": "api.get_house",
+         "type": "select"
+      }
+    ]
   }
 ]
