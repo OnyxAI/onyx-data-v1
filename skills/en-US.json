@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "name": "IP",
+    "raw": "ip",
+    "description": "Onyx can give you your IP address !",
+    "url": "https://github.com/Onyx-Skills/ip",
+    "img": "http://icons.veryicon.com/png/System/Icons8%20Metro%20Style/It%20Infrastructure%20Ip%20adress.png",
+    "version": "1.0.0",
+    "author": "Aituglo",
+    "instruct": "",
+    "lang": "en-US"
+  },
+  {
+    "id": "1",
+    "name": "Jokes",
+    "raw": "jokes",
+    "description": "Onyx can say many jokes !",
+    "url": "https://github.com/Onyx-Skills/jokes",
+    "img": "http://mangebelge.com/4587-thickbox_default/carambar-caramel-original-320gr.jpg",
+    "version": "1.0.0",
+    "author": "Aituglo",
+    "instruct": "",
+    "lang": "en-US"
+  }
+]

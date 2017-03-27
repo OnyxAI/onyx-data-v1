@@ -1,0 +1,26 @@
+[
+  {
+    "id": "0",
+    "name": "Alarme",
+    "raw": "alarm",
+    "description": "Un réveil pour Onyx",
+    "url": "https://github.com/Onyx-Plugins/alarm",
+    "img": "http://www.123-stickers.com/4404-4572-large/5982.jpg",
+    "version": "1.0.0",
+    "author": "Aituglo",
+    "instruct": "",
+    "lang": "fr-FR"
+  },
+  {
+    "id": "1",
+    "name": "Milight",
+    "raw": "mi_light",
+    "description": "Gérez vos lampes avec Onyx !",
+    "url": "https://github.com/Onyx-Plugins/milight",
+    "img": "http://www.g-rom.info/wp-content/uploads/2016/09/milight-rgbw-remote1.jpg",
+    "version": "1.0.0",
+    "author": "Aituglo",
+    "instruct": "",
+    "lang": "fr-FR"
+  }
+]
