@@ -75,5 +75,12 @@
     "url": "auth.change_account",
     "pourcentage": "8%",
     "tooltip": "My Account"
+  },
+  {
+    "id": "12",
+    "fa": "fa-info",
+    "url": "core.info",
+    "pourcentage": "",
+    "tooltip": "News"
   }
 ]
