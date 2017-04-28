@@ -1,0 +1,110 @@
+[
+  {
+    "code":"open_onyx",
+    "name":"Open Onyx",
+    "description":"Open Onyx",
+    "fa":"fa fa-home",
+    "color":"light-blue",
+    "params":[]
+  },
+  {
+    "code":"back_home",
+    "name":"Back Home",
+    "description":"A User back home",
+    "fa":"fa fa-home",
+    "color":"light-blue",
+    "params":[
+      {
+        "name":"House",
+        "value":"house",
+        "variable":"name",
+        "url":"api.get_house",
+        "type":"select"
+      },
+      {
+        "name":"User",
+        "value":"user",
+        "variable":"username",
+        "url":"api.get_users",
+        "type":"select"
+      }
+    ]
+  },
+  {
+    "code":"user_connected",
+    "name":"User Connected",
+    "description":"When a user connect",
+    "fa":"fa fa-home",
+    "color":"light-blue",
+    "params":[
+      {
+        "name":"User",
+        "value":"user",
+        "variable":"username",
+        "url":"api.get_users",
+        "type":"select"
+      }
+    ]
+  },
+  {
+    "code": "wake_up",
+    "name": "Wake up",
+    "description": "Wake up !",
+    "fa": "fa-bed",
+    "icon_color": "yellow",
+    "params":[]
+  },
+  {
+    "code": "going_to_sleep",
+    "name": "Going to sleep",
+    "description": "A user are going to sleep",
+    "fa": "fa-bed",
+    "icon_color": "blue"
+  },
+  {
+    "code": "onyx_installed",
+    "name": "Onyx installed",
+    "description": "Onyx installed !",
+    "fa": "fa-desktop",
+    "icon_color": "black"
+  },
+  {
+    "code": "onyx_updated",
+    "name": "Onyx Updated",
+    "description": "Onyx Updated",
+    "fa": "fa-wrench",
+    "icon_color": "black"
+  },
+  {
+    "code": "sun_rise",
+    "name": "Sun Rise",
+    "description": "SunRise",
+    "fa": "fa-sun-o",
+    "icon_color": "yellow",
+    "params": [
+      {
+         "name": "House",
+         "value": "house",
+         "variable": "name",
+         "url": "api.get_house",
+         "type": "select"
+      }
+    ]
+  },
+  {
+    "code": "sun_set",
+    "name": "Sun Set",
+    "description": "Sunset",
+    "fa": "fa-sun-o",
+    "icon_color": "yellow",
+    "params": [
+      {
+         "name": "House",
+         "value": "house",
+         "variable": "name",
+         "url": "api.get_house",
+         "type": "select"
+      }
+    ]
+  }
+]

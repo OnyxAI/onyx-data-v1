@@ -1,0 +1,23 @@
+[
+  {
+    "code":"calendar",
+    "name":"Calendar",
+    "description":"Calendar",
+    "url":"widgets.calendar",
+    "see_more":"core.calendars"
+  },
+  {
+    "code":"weather",
+    "name":"Weather",
+    "description":"Weather 1",
+    "url":"widgets.weather_1",
+    "see_more":"core.weather"
+  },
+  {
+    "code":"weather",
+    "name":"Weather",
+    "description":"Weather 2",
+    "url":"widgets.weather_2",
+    "see_more":"core.weather"
+  }
+]
