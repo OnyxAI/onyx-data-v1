@@ -1,13 +1,5 @@
 [
   {
-    "code":"open_onyx",
-    "name":"Démarrage d'Onyx",
-    "description":"Onyx vient de se lancer",
-    "fa":"fa fa-home",
-    "color":"light-blue",
-    "params":[]
-  },
-  {
     "code":"back_home",
     "name":"Retour à la maison",
     "description":"Un utilisateur vient de rentrer",
@@ -60,13 +52,6 @@
     "description": "Un utilisateur va se coucher",
     "fa": "fa-bed",
     "icon_color": "blue"
-  },
-  {
-    "code": "onyx_installed",
-    "name": "Onyx installé",
-    "description": "Onyx vient d'être installé !",
-    "fa": "fa-desktop",
-    "icon_color": "black"
   },
   {
     "code": "onyx_updated",

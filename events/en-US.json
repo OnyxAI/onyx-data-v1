@@ -1,13 +1,5 @@
 [
   {
-    "code":"open_onyx",
-    "name":"Open Onyx",
-    "description":"Open Onyx",
-    "fa":"fa fa-home",
-    "color":"light-blue",
-    "params":[]
-  },
-  {
     "code":"back_home",
     "name":"Back Home",
     "description":"A User back home",
@@ -60,13 +52,6 @@
     "description": "A user are going to sleep",
     "fa": "fa-bed",
     "icon_color": "blue"
-  },
-  {
-    "code": "onyx_installed",
-    "name": "Onyx installed",
-    "description": "Onyx installed !",
-    "fa": "fa-desktop",
-    "icon_color": "black"
   },
   {
     "code": "onyx_updated",
