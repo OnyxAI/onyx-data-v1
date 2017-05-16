@@ -49,6 +49,11 @@
         "type": "input",
 				"name": "Code",
 				"variable": "code"
+			},
+      {
+        "type": "input",
+				"name": "Template",
+				"variable": "template"
 			}
     ]
   }

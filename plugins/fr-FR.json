@@ -1,17 +1,5 @@
 [
   {
-    "id": "0",
-    "name": "Alarme",
-    "raw": "alarm",
-    "description": "Un réveil pour Onyx",
-    "url": "https://github.com/Onyx-Plugins/alarm",
-    "img": "http://www.123-stickers.com/4404-4572-large/5982.jpg",
-    "version": "1.0.0",
-    "author": "Aituglo",
-    "instruct": "",
-    "lang": "fr-FR"
-  },
-  {
     "id": "1",
     "name": "Milight",
     "raw": "mi_light",
