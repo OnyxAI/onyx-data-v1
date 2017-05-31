@@ -16,9 +16,9 @@
   {
     "id": "3",
     "fa": "fa-plus",
-    "url": "core.plugins",
+    "url": "core.skills",
     "pourcentage": "83%",
-    "tooltip": "Plugins"
+    "tooltip": "Skills"
   },
   {
     "id": "4",
@@ -50,10 +50,10 @@
   },
   {
     "id": "8",
-    "fa": "fa-plug",
-    "url": "core.skills",
+    "fa": "fa-info",
+    "url": "core.info",
     "pourcentage": "29%",
-    "tooltip": "Skills"
+    "tooltip": "Info"
   },
   {
     "id": "9",

@@ -1,0 +1,66 @@
+[
+    {
+        "service": "default",
+        "label": "error",
+        "language": "fr",
+        "answers": [
+            {
+                "text": "Je suis désolé, une erreur est survenue, je n'ai pas réussi.."
+            },
+            {
+                "text": "Je n'ai pas réussi à faire ce que vous vouliez..."
+            }
+        ]
+    },
+    {
+        "service": "user",
+        "label": "user_email",
+        "language": "fr",
+        "answers": [
+            {
+                "text": "L'adresse mail est %USER_EMAIL%"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "label": "get_weather",
+        "language": "fr",
+        "answers": [
+            {
+                "text": "Il fait actuellement %WEATHER_TEMP% ° !"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "label": "get_weather_city",
+        "language": "fr",
+        "answers": [
+            {
+                "text": "Il fait actuellement %WEATHER_TEMP% ° à %WEATHER_CITY% !"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "label": "open_lamp",
+        "language": "fr",
+        "answers": [
+            {
+                "text": "La lampe est maintenant allumé !"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "label": "close_lamp",
+        "language": "fr",
+        "answers": [
+            {
+                "text": "La lampe est maintenant éteinte !"
+            }
+        ]
+    }
+
+]

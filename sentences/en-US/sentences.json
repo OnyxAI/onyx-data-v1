@@ -1,0 +1,65 @@
+[
+    {
+        "service": "user",
+        "url": "bot.get_email",
+        "language": "en",
+        "sentences": [
+            {
+                "text": "What is the email address of %USER%"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "url": "bot.get_weather",
+        "language": "en",
+        "sentences": [
+            {
+                "text": "What the weather like ?"
+            },
+            {
+                "text": "Give me the weather !"
+            },
+            {
+                "text": "Is it raining outside?"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "url": "bot.get_weather_city",
+        "language": "en",
+        "sentences": [
+            {
+                "text": "What the weather like in %WEATHER_CITY% ?"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "url": "mi_light.action_open",
+        "language": "en",
+        "sentences": [
+            {
+                "text": "Open the light in %ROOM%"
+            },
+            {
+                "text": "Turn on the light in %ROOM%"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "url": "mi_light.action_close",
+        "language": "en",
+        "sentences": [
+            {
+                "text": "Close the light in %ROOM%"
+            },
+            {
+                "text": "Turn off the light in %ROOM%"
+            }
+        ]
+    }
+
+]

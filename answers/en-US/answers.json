@@ -1,0 +1,66 @@
+[
+    {
+        "service": "default",
+        "label": "error",
+        "language": "en",
+        "answers": [
+            {
+                "text": "I'm so sorry, something bad happened..."
+            },
+            {
+                "text": "I was not able to do that.. Something bad occured !"
+            }
+        ]
+    },
+    {
+        "service": "user",
+        "label": "user_email",
+        "language": "en",
+        "answers": [
+            {
+                "text": "The email address is %USER_EMAIL%"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "label": "get_weather",
+        "language": "en",
+        "answers": [
+            {
+                "text": "It is actually %WEATHER_TEMP% ° !"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "label": "get_weather_city",
+        "language": "en",
+        "answers": [
+            {
+                "text": "It is actually %WEATHER_TEMP% ° in %WEATHER_CITY% !"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "label": "open_lamp",
+        "language": "en",
+        "answers": [
+            {
+                "text": "The light is now on !"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "label": "close_lamp",
+        "language": "en",
+        "answers": [
+            {
+                "text": "The light is now off !"
+            }
+        ]
+    }
+
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "service": "calendar",
+        "url": "get-next-event",
+        "language": "fr",
+        "sentences": [
+            {
+                "text": "Quel est mon prochain rendez-vous ?"
+            },
+            {
+                "text": "Donne moi le prochain évènement dans mon calendrier"
+            }
+        ]
+    },
+    {
+        "service": "user",
+        "url": "bot.get_email",
+        "language": "fr",
+        "sentences": [
+            {
+                "text": "Quel est l'email de %USER%"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "url": "bot.get_weather",
+        "language": "fr",
+        "sentences": [
+            {
+                "text": "Quel temps fait il ?"
+            },
+            {
+                "text": "Donne moi la météo !"
+            },
+            {
+                "text": "Est-ce qu'il pleut dehors ?"
+            }
+        ]
+    },
+    {
+        "service": "weather",
+        "url": "bot.get_weather_city",
+        "language": "fr",
+        "sentences": [
+            {
+                "text": "Quel temps fait il a %WEATHER_CITY% ?"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "url": "mi_light.action_open",
+        "language": "fr",
+        "sentences": [
+            {
+                "text": "Allume la lumiere de %ROOM%"
+            }
+        ]
+    },
+    {
+        "service": "milight",
+        "url": "mi_light.action_close",
+        "language": "fr",
+        "sentences": [
+            {
+                "text": "Ferme la lumiere de %ROOM%"
+            }
+        ]
+    }
+
+]
