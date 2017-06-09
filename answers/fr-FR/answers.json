@@ -31,36 +31,5 @@
                 "text": "Il fait actuellement %WEATHER_TEMP% ° !"
             }
         ]
-    },
-    {
-        "service": "weather",
-        "label": "get_weather_city",
-        "language": "fr",
-        "answers": [
-            {
-                "text": "Il fait actuellement %WEATHER_TEMP% ° à %WEATHER_CITY% !"
-            }
-        ]
-    },
-    {
-        "service": "milight",
-        "label": "open_lamp",
-        "language": "fr",
-        "answers": [
-            {
-                "text": "La lampe est maintenant allumé !"
-            }
-        ]
-    },
-    {
-        "service": "milight",
-        "label": "close_lamp",
-        "language": "fr",
-        "answers": [
-            {
-                "text": "La lampe est maintenant éteinte !"
-            }
-        ]
     }
-
 ]

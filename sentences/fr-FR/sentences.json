@@ -37,36 +37,5 @@
                 "text": "Est-ce qu'il pleut dehors ?"
             }
         ]
-    },
-    {
-        "service": "weather",
-        "url": "bot.get_weather_city",
-        "language": "fr",
-        "sentences": [
-            {
-                "text": "Quel temps fait il a %WEATHER_CITY% ?"
-            }
-        ]
-    },
-    {
-        "service": "milight",
-        "url": "mi_light.action_open",
-        "language": "fr",
-        "sentences": [
-            {
-                "text": "Allume la lumiere de %ROOM%"
-            }
-        ]
-    },
-    {
-        "service": "milight",
-        "url": "mi_light.action_close",
-        "language": "fr",
-        "sentences": [
-            {
-                "text": "Ferme la lumiere de %ROOM%"
-            }
-        ]
     }
-
 ]

@@ -31,36 +31,5 @@
                 "text": "It is actually %WEATHER_TEMP% ° !"
             }
         ]
-    },
-    {
-        "service": "weather",
-        "label": "get_weather_city",
-        "language": "en",
-        "answers": [
-            {
-                "text": "It is actually %WEATHER_TEMP% ° in %WEATHER_CITY% !"
-            }
-        ]
-    },
-    {
-        "service": "milight",
-        "label": "open_lamp",
-        "language": "en",
-        "answers": [
-            {
-                "text": "The light is now on !"
-            }
-        ]
-    },
-    {
-        "service": "milight",
-        "label": "close_lamp",
-        "language": "en",
-        "answers": [
-            {
-                "text": "The light is now off !"
-            }
-        ]
     }
-
 ]
