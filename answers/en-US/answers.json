@@ -1,0 +1,15 @@
+[
+    {
+        "service": "default",
+        "label": "error",
+        "language": "en",
+        "answers": [
+            {
+                "text": "I'm so sorry, something bad happened..."
+            },
+            {
+                "text": "I was not able to do that.. Something bad occured !"
+            }
+        ]
+    }
+]

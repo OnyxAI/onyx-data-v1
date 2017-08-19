@@ -1,0 +1,15 @@
+[
+    {
+        "service": "default",
+        "label": "error",
+        "language": "fr",
+        "answers": [
+            {
+                "text": "Je suis désolé, une erreur est survenue, je n'ai pas réussi.."
+            },
+            {
+                "text": "Je n'ai pas réussi à faire ce que vous vouliez..."
+            }
+        ]
+    }
+]
