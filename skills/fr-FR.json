@@ -10,5 +10,41 @@
     "author": "Aituglo",
     "instruct": "",
     "lang": "fr-FR"
+  },
+  {
+    "id": "1",
+    "name": "RATP",
+    "raw": "ratp_skill",
+    "description": "Horaires RATP !",
+    "url": "https://github.com/Onyx-Skills/ratp_skill",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/RATP.svg",
+    "version": "1.0.1",
+    "author": "Aituglo",
+    "instruct": "",
+    "lang": "fr-FR"
+  },
+  {
+    "id": "2",
+    "name": "TV",
+    "raw": "tvprogram_skill",
+    "description": "Récupérez votre programme tv !",
+    "url": "https://github.com/Onyx-Skills/tvprogram_skill",
+    "img": "https://www.allatvkanaler.se/images/tv-tabla-big.png",
+    "version": "1.0.1",
+    "author": "Aituglo",
+    "instruct": "",
+    "lang": "fr-FR"
+  },
+  {
+    "id": "3",
+    "name": "Traduction",
+    "raw": "translate_skill",
+    "description": "Tranduisez tout avec Onyx !",
+    "url": "https://github.com/Onyx-Skills/translate_skill",
+    "img": "https://www.at-languagesolutions.com/fr/wp-content/uploads/2018/02/translate.jpg",
+    "version": "1.0.0",
+    "author": "Aituglo",
+    "instruct": "",
+    "lang": "fr-FR"
   }
 ]

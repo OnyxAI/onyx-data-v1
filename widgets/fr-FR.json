@@ -8,14 +8,14 @@
   },
   {
     "code":"weather",
-    "name":"Météo",
+    "name":"Météo 1",
     "description":"Météo 1",
     "url":"widgets.weather_1",
     "see_more":"core.weather"
   },
   {
     "code":"weather",
-    "name":"Météo",
+    "name":"Météo 2",
     "description":"Météo 2",
     "url":"widgets.weather_2",
     "see_more":"core.weather"
